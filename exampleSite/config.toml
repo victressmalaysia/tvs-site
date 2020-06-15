@@ -54,7 +54,7 @@ contact_form_action = "#"
 description = "This is meta description"
 email = "victressmalaysia@gmail.com"
 google_analitycs_id = ""
-logo = "images/tvs-logo.png"
+logo = "images/logo.png"
 mobile = "+60196631143"
 top_header = true
 [params.map]
