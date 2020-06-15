@@ -1,10 +1,10 @@
 baseURL = "https://tvs-my.netlify.app/"
-disableLanguages = []
-disqusShortname = "educenter"
+disableLanguages = ["fr"]
+disqusShortname = "tvs"
 paginate = "6"
 summaryLength = "10"
 theme = "educenter-hugo"
-title = "Educenter | hugo education template"
+title = "The Victress Support"
 [Languages.en]
 contentDir = "content/english"
 copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com)"
@@ -35,8 +35,8 @@ name = "scholarship"
 URL = "research"
 name = "research"
 [[menu.main]]
-URL = "about"
-name = "About"
+URL = "team"
+name = "Meet the Team"
 weight = 1
 [[menu.main]]
 URL = "course"
