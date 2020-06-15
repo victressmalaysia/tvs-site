@@ -1,6 +1,6 @@
 ---
 slider:
-  enable: true
+  enable: false
   bg_image: images/banner/banner-1.jpg
   slider_item:
   - title: The Victress Support
