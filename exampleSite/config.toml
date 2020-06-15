@@ -43,8 +43,9 @@ URL = "testimonials"
 name = "Volunteer Testimonials"
 weight = "2"
 [[menu.main]]
+URL = "contact"
 hasChildren = true
-name = "Pages"
+name = "Contact Us"
 weight = 3
 [[menu.main]]
 URL = "teacher"
