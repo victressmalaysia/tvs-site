@@ -124,17 +124,9 @@ icon = "ti-facebook"
 link = "https://www.facebook.com/thevictresssupport/"
 title = "facebook"
 [[params.social]]
-icon = "ti-twitter-alt"
-link = "#"
-title = "twitter"
-[[params.social]]
 icon = "ti-instagram"
-link = "#"
+link = "https://www.instagram.com/thevictresssupportmy/"
 title = "instagram"
-[[params.social]]
-icon = "ti-github"
-link = "#"
-title = "github"
 [[params.social]]
 icon = "ti-linkedin"
 link = "#"
