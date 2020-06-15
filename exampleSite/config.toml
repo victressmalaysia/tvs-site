@@ -39,9 +39,9 @@ URL = "team"
 name = "Meet the Team"
 weight = 1
 [[menu.main]]
-URL = "course"
-name = "course"
-weight = 2
+URL = "testimonials"
+name = "Volunteer Testimonials"
+weight = "2"
 [[menu.main]]
 hasChildren = true
 name = "Pages"
